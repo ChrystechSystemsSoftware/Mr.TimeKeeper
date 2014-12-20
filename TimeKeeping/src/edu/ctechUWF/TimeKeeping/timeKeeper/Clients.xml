@@ -1,0 +1,44 @@
+<xml>
+	<client>
+		<Sally>
+			<Projects>
+				<CureToCancer>
+					<Tasks>
+						<Task id="Find Monkey">
+							<Time id=start>15:00:00</Time>
+							<Time id=end>17:00:00</Time>
+						</Task>
+						<Task id="Fight Zebra" />
+						<Task id="Kill Leopard" />
+					</Tasks>
+				</CureToCancer>
+			</Projects>
+		</Sally>
+		<Ed>
+			<Projects>
+				<SuchNSuch>
+					<Tasks>
+						<Task id="Task">
+							<Time id=start>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=paused>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=resumed>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=cached>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=end>MM/dd/yyyy xx:xx:xx</Time>
+						</Task>
+					</Tasks>
+				</SuchNSuch>
+				<SuchNSuch2>
+					<Tasks>
+						<Task id="Task">
+							<Time id=start>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=paused>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=resumed>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=cached>MM/dd/yyyy xx:xx:xx</Time>
+							<Time id=end>MM/dd/yyyy xx:xx:xx</Time>
+						</Task>
+					</Tasks>
+				</SuchNSuch2>
+			</Projects>
+		</Ed>
+	</client>
+</xml>

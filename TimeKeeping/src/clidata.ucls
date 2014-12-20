@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="edu.ctechUWF.TimeKeeping.landing.Actions" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/landing/landing.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="1618" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.ctechUWF.TimeKeeping.timeKeeper.DisplayRefresh" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timeKeeper/DisplayRefresh.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="198" x="1180" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.ctechUWF.TimeKeeping.timeKeeper.TimeKeeper" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timeKeeper/TimeKeeper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="209" x="1140" y="463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.ctechUWF.TimeKeeping.ClientData.ClientsOut" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/ClientData/ClientsOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="193" x="1481" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="edu.ctechUWF.TimeKeeping.landing" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/landing" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="274" x="993" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="edu.ctechUWF.TimeKeeping.timerInitWindow.Actions" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timerInitWindow/timerInitWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="170" width="217" x="374" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="7" language="java" name="edu.ctechUWF.TimeKeeping.ClientData" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/ClientData" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="293" x="41" y="217"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="8" language="java" name="edu.ctechUWF.TimeKeeping.timerInitWindow.timerInitWindow" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timerInitWindow/timerInitWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="854" width="229" x="610" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="edu.ctechUWF.TimeKeeping.timeKeeper" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timeKeeper" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="299" x="673" y="127"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="edu.ctechUWF.TimeKeeping.timerInitWindow" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timerInitWindow" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="333" x="1245" y="217"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="11" language="java" name="edu.ctechUWF.TimeKeeping.landing.landing" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/landing/landing.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="980" width="233" x="1399" y="2191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.ctechUWF.TimeKeeping.timerInitWindow.Timer" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timerInitWindow/Timer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="494" width="217" x="921" y="1657"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="edu.ctechUWF.TimeKeeping.ClientData.ClientsIn" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/ClientData/ClientsIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="193" x="1481" y="1657"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="edu.ctechUWF.TimeKeeping.timeKeeper.InitialDisplayRefresh" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timeKeeper/InitialDisplayRefresh.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="198" x="921" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.ctechUWF.TimeKeeping.timerInitWindow.WindowActions" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/timerInitWindow/timerInitWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="206" width="242" x="921" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="edu.ctechUWF.TimeKeeping.landing.Buffer" project="TimeKeeping" 
+    file="/TimeKeeping/src/edu/ctechUWF/TimeKeeping/landing/Buffer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="317" x="610" y="3211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="20">    
+    <bendpoint x="1704" y="463"/>    
+    <bendpoint x="1704" y="763"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="22">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="23" name="init"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="25">    
+    <bendpoint x="642" y="127"/>    
+    <bendpoint x="642" y="217"/>    
+    <bendpoint x="642" y="463"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="26">    
+    <bendpoint x="663" y="217"/>    
+    <bendpoint x="663" y="463"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="27">    
+    <bendpoint x="619" y="1657"/>    
+    <bendpoint x="619" y="2191"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="28" name="ThreadBuffer"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="31">    
+    <bendpoint x="1214" y="127"/>    
+    <bendpoint x="1214" y="217"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="33">    
+    <bendpoint x="1235" y="127"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="34">    
+    <bendpoint x="621" y="217"/>    
+    <bendpoint x="600" y="463"/>    
+    <bendpoint x="558" y="763"/>    
+    <bendpoint x="558" y="1657"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="36">    
+    <bendpoint x="1429" y="463"/>    
+    <bendpoint x="1429" y="763"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="37">    
+    <bendpoint x="526" y="127"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="38">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="39" name="TimeThis"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="41">    
+    <bendpoint x="501" y="463"/>    
+    <bendpoint x="501" y="763"/>    
+    <bendpoint x="501" y="1657"/>    
+    <bendpoint x="501" y="2191"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="42">    
+    <bendpoint x="1149" y="763"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="43" name="time"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="45">    
+    <bendpoint x="1193" y="217"/>    
+    <bendpoint x="1379" y="463"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="46">    
+    <bendpoint x="848" y="217"/>    
+    <bendpoint x="848" y="463"/>    
+    <bendpoint x="869" y="763"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="48">    
+    <bendpoint x="1863" y="127"/>    
+    <bendpoint x="1863" y="217"/>    
+    <bendpoint x="1746" y="463"/>    
+    <bendpoint x="1725" y="763"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="50">    
+    <bendpoint x="1683" y="463"/>    
+    <bendpoint x="1746" y="763"/>    
+    <bendpoint x="1746" y="1657"/>    
+    <bendpoint x="1746" y="2191"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="51">    
+    <bendpoint x="869" y="463"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="52">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="55">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="57">    
+    <bendpoint x="579" y="463"/>    
+    <bendpoint x="579" y="763"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="62">    
+    <bendpoint x="621" y="463"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="63">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="64" name="cliOut"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <bendpoint x="1408" y="763"/>    
+    <bendpoint x="1408" y="1657"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="67" name="land"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="69">    
+    <bendpoint x="1002" y="127"/>    
+    <bendpoint x="890" y="217"/>    
+    <bendpoint x="890" y="463"/>    
+    <bendpoint x="890" y="763"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="72">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="73">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="1109" y="463"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="75">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="78">    
+    <bendpoint x="1450" y="763"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="1767" y="463"/>    
+    <bendpoint x="1767" y="763"/>    
+    <bendpoint x="1725" y="1657"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
